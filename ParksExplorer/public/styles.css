@@ -1,0 +1,42 @@
+
+html,body{
+    height:100%;
+    background-color: #CCCCFF;
+}
+
+#real_body{
+    min-height: 80vh;
+}
+
+
+#menu_navigation{
+    background-color: #725280;
+    margin-top:auto;
+}
+
+
+main{
+    margin-top: 10px;
+}
+
+#conteneur_central{
+    background-color: #C39BD3;
+    
+}
+
+#home_image_position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3%;
+}
+
+h1{
+    text-align: center;
+}
+
+#dest_title{
+    padding:0%;
+    background-color: #CCCCFF;
+}
+
